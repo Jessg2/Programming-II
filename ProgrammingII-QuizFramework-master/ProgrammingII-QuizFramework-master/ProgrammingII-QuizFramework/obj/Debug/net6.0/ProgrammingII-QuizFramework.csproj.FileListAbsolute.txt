@@ -1,0 +1,14 @@
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\bin\Debug\net6.0\ProgrammingII-QuizFramework.exe
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\bin\Debug\net6.0\ProgrammingII-QuizFramework.deps.json
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\bin\Debug\net6.0\ProgrammingII-QuizFramework.runtimeconfig.json
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\bin\Debug\net6.0\ProgrammingII-QuizFramework.dll
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\bin\Debug\net6.0\ProgrammingII-QuizFramework.pdb
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\obj\Debug\net6.0\ProgrammingII-QuizFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\obj\Debug\net6.0\ProgrammingII-QuizFramework.AssemblyInfoInputs.cache
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\obj\Debug\net6.0\ProgrammingII-QuizFramework.AssemblyInfo.cs
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\obj\Debug\net6.0\ProgrammingII-QuizFramework.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\obj\Debug\net6.0\ProgrammingII-QuizFramework.dll
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\obj\Debug\net6.0\refint\ProgrammingII-QuizFramework.dll
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\obj\Debug\net6.0\ProgrammingII-QuizFramework.pdb
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\obj\Debug\net6.0\ProgrammingII-QuizFramework.genruntimeconfig.cache
+C:\Users\jesse\Downloads\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework-master\ProgrammingII-QuizFramework\obj\Debug\net6.0\ref\ProgrammingII-QuizFramework.dll
